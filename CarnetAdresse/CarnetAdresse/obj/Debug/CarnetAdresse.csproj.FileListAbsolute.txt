@@ -1,0 +1,15 @@
+C:\Users\fbaka\source\repos\CarnetAdresse\CarnetAdresse\bin\Debug\CarnetAdresse.exe.config
+C:\Users\fbaka\source\repos\CarnetAdresse\CarnetAdresse\bin\Debug\CarnetAdresse.exe
+C:\Users\fbaka\source\repos\CarnetAdresse\CarnetAdresse\bin\Debug\CarnetAdresse.pdb
+C:\Users\fbaka\source\repos\CarnetAdresse\CarnetAdresse\obj\Debug\CarnetAdresse.csprojAssemblyReference.cache
+C:\Users\fbaka\source\repos\CarnetAdresse\CarnetAdresse\obj\Debug\MainWindow.g.cs
+C:\Users\fbaka\source\repos\CarnetAdresse\CarnetAdresse\obj\Debug\App.g.cs
+C:\Users\fbaka\source\repos\CarnetAdresse\CarnetAdresse\obj\Debug\CarnetAdresse_MarkupCompile.cache
+C:\Users\fbaka\source\repos\CarnetAdresse\CarnetAdresse\obj\Debug\CarnetAdresse_MarkupCompile.lref
+C:\Users\fbaka\source\repos\CarnetAdresse\CarnetAdresse\obj\Debug\MainWindow.baml
+C:\Users\fbaka\source\repos\CarnetAdresse\CarnetAdresse\obj\Debug\CarnetAdresse.g.resources
+C:\Users\fbaka\source\repos\CarnetAdresse\CarnetAdresse\obj\Debug\CarnetAdresse.Properties.Resources.resources
+C:\Users\fbaka\source\repos\CarnetAdresse\CarnetAdresse\obj\Debug\CarnetAdresse.csproj.GenerateResource.cache
+C:\Users\fbaka\source\repos\CarnetAdresse\CarnetAdresse\obj\Debug\CarnetAdresse.csproj.CoreCompileInputs.cache
+C:\Users\fbaka\source\repos\CarnetAdresse\CarnetAdresse\obj\Debug\CarnetAdresse.exe
+C:\Users\fbaka\source\repos\CarnetAdresse\CarnetAdresse\obj\Debug\CarnetAdresse.pdb
